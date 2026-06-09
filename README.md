@@ -18,8 +18,6 @@ The following topics have been completed and are included in this repository:
  * Bubble Sort
  * Heap Sort
 
-> This repository will be updated as additional topics are learned and implemented.
-
 ## 💻 Requirements
 
 * GCC Compiler (recommended)
